@@ -1,0 +1,50 @@
+.instalogo1{
+    margin-left: 70px;
+    overflow: auto;
+    margin-top: -90px;
+    display: flex;
+    width: 40px;
+    height: 40px;
+    z-index: 1;
+}
+
+.logo{
+    cursor:pointer;
+    margin-left: 10px;
+    overflow: auto;
+     margin-top: -10px;
+    display: flex;
+    width: 220px;
+    height:140px;
+    z-index: 1;
+}
+.likes{
+    margin-left: 490px;
+    margin-top: 60px;
+    width: 100px;
+    height: 100px;
+}
+.Seguidores{
+    
+    margin: 140px 132px;
+    width: 100px;
+    height: 100px;
+}
+.visu{
+    margin-left: -690px;
+    margin-top: 70px;
+    width: 100px;
+    height: 100px;
+}
+
+
+.logo1{
+    cursor:pointer;
+    margin-left: 0px;
+    overflow: auto;
+     margin-top: -190px;
+    display: flex;
+    width: 230px;
+    height:180px;
+    z-index: 1;
+}
